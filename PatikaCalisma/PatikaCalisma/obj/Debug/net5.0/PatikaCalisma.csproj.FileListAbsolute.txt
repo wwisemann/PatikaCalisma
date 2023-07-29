@@ -1,0 +1,16 @@
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\PatikaCalisma\bin\Debug\net5.0\PatikaCalisma.exe
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\PatikaCalisma\bin\Debug\net5.0\PatikaCalisma.deps.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\PatikaCalisma\bin\Debug\net5.0\PatikaCalisma.runtimeconfig.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\PatikaCalisma\bin\Debug\net5.0\PatikaCalisma.runtimeconfig.dev.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\PatikaCalisma\bin\Debug\net5.0\PatikaCalisma.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\PatikaCalisma\bin\Debug\net5.0\PatikaCalisma.pdb
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\PatikaCalisma\obj\Debug\net5.0\PatikaCalisma.csproj.AssemblyReference.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\PatikaCalisma\obj\Debug\net5.0\PatikaCalisma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\PatikaCalisma\obj\Debug\net5.0\PatikaCalisma.AssemblyInfoInputs.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\PatikaCalisma\obj\Debug\net5.0\PatikaCalisma.AssemblyInfo.cs
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\PatikaCalisma\obj\Debug\net5.0\PatikaCalisma.csproj.CoreCompileInputs.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\PatikaCalisma\obj\Debug\net5.0\PatikaCalisma.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\PatikaCalisma\obj\Debug\net5.0\refint\PatikaCalisma.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\PatikaCalisma\obj\Debug\net5.0\PatikaCalisma.pdb
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\PatikaCalisma\obj\Debug\net5.0\PatikaCalisma.genruntimeconfig.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\PatikaCalisma\obj\Debug\net5.0\ref\PatikaCalisma.dll

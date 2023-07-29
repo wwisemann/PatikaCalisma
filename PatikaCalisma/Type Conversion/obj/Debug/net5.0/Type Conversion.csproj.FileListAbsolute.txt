@@ -1,0 +1,16 @@
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Type Conversion\bin\Debug\net5.0\Type Conversion.exe
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Type Conversion\bin\Debug\net5.0\Type Conversion.deps.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Type Conversion\bin\Debug\net5.0\Type Conversion.runtimeconfig.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Type Conversion\bin\Debug\net5.0\Type Conversion.runtimeconfig.dev.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Type Conversion\bin\Debug\net5.0\Type Conversion.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Type Conversion\bin\Debug\net5.0\Type Conversion.pdb
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Type Conversion\obj\Debug\net5.0\Type Conversion.csproj.AssemblyReference.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Type Conversion\obj\Debug\net5.0\Type Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Type Conversion\obj\Debug\net5.0\Type Conversion.AssemblyInfoInputs.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Type Conversion\obj\Debug\net5.0\Type Conversion.AssemblyInfo.cs
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Type Conversion\obj\Debug\net5.0\Type Conversion.csproj.CoreCompileInputs.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Type Conversion\obj\Debug\net5.0\Type Conversion.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Type Conversion\obj\Debug\net5.0\refint\Type Conversion.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Type Conversion\obj\Debug\net5.0\Type Conversion.pdb
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Type Conversion\obj\Debug\net5.0\Type Conversion.genruntimeconfig.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Type Conversion\obj\Debug\net5.0\ref\Type Conversion.dll

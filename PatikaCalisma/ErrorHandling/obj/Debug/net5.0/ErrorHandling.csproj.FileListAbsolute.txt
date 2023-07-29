@@ -1,0 +1,16 @@
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\ErrorHandling\bin\Debug\net5.0\ErrorHandling.exe
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\ErrorHandling\bin\Debug\net5.0\ErrorHandling.deps.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\ErrorHandling\bin\Debug\net5.0\ErrorHandling.runtimeconfig.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\ErrorHandling\bin\Debug\net5.0\ErrorHandling.runtimeconfig.dev.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\ErrorHandling\bin\Debug\net5.0\ErrorHandling.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\ErrorHandling\bin\Debug\net5.0\ErrorHandling.pdb
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\ErrorHandling\obj\Debug\net5.0\ErrorHandling.csproj.AssemblyReference.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\ErrorHandling\obj\Debug\net5.0\ErrorHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\ErrorHandling\obj\Debug\net5.0\ErrorHandling.AssemblyInfoInputs.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\ErrorHandling\obj\Debug\net5.0\ErrorHandling.AssemblyInfo.cs
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\ErrorHandling\obj\Debug\net5.0\ErrorHandling.csproj.CoreCompileInputs.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\ErrorHandling\obj\Debug\net5.0\ErrorHandling.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\ErrorHandling\obj\Debug\net5.0\refint\ErrorHandling.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\ErrorHandling\obj\Debug\net5.0\ErrorHandling.pdb
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\ErrorHandling\obj\Debug\net5.0\ErrorHandling.genruntimeconfig.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\ErrorHandling\obj\Debug\net5.0\ref\ErrorHandling.dll

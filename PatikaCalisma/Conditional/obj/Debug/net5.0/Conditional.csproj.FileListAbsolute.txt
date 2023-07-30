@@ -1,0 +1,16 @@
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Conditional\bin\Debug\net5.0\Conditional.exe
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Conditional\bin\Debug\net5.0\Conditional.deps.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Conditional\bin\Debug\net5.0\Conditional.runtimeconfig.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Conditional\bin\Debug\net5.0\Conditional.runtimeconfig.dev.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Conditional\bin\Debug\net5.0\Conditional.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Conditional\bin\Debug\net5.0\Conditional.pdb
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Conditional\obj\Debug\net5.0\Conditional.csproj.AssemblyReference.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Conditional\obj\Debug\net5.0\Conditional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Conditional\obj\Debug\net5.0\Conditional.AssemblyInfoInputs.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Conditional\obj\Debug\net5.0\Conditional.AssemblyInfo.cs
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Conditional\obj\Debug\net5.0\Conditional.csproj.CoreCompileInputs.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Conditional\obj\Debug\net5.0\Conditional.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Conditional\obj\Debug\net5.0\refint\Conditional.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Conditional\obj\Debug\net5.0\Conditional.pdb
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Conditional\obj\Debug\net5.0\Conditional.genruntimeconfig.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Conditional\obj\Debug\net5.0\ref\Conditional.dll

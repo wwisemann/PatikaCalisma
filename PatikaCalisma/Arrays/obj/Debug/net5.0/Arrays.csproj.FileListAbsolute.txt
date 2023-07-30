@@ -1,0 +1,16 @@
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Arrays\bin\Debug\net5.0\Arrays.exe
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Arrays\bin\Debug\net5.0\Arrays.deps.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.dev.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Arrays\bin\Debug\net5.0\Arrays.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Arrays\bin\Debug\net5.0\Arrays.pdb
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Arrays\obj\Debug\net5.0\Arrays.csproj.AssemblyReference.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Arrays\obj\Debug\net5.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfo.cs
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Arrays\obj\Debug\net5.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Arrays\obj\Debug\net5.0\Arrays.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Arrays\obj\Debug\net5.0\refint\Arrays.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Arrays\obj\Debug\net5.0\Arrays.pdb
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Arrays\obj\Debug\net5.0\Arrays.genruntimeconfig.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Arrays\obj\Debug\net5.0\ref\Arrays.dll

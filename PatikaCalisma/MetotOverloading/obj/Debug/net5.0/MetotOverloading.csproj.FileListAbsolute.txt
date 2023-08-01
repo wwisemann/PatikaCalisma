@@ -1,0 +1,16 @@
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\MetotOverloading\bin\Debug\net5.0\MetotOverloading.exe
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\MetotOverloading\bin\Debug\net5.0\MetotOverloading.deps.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\MetotOverloading\bin\Debug\net5.0\MetotOverloading.runtimeconfig.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\MetotOverloading\bin\Debug\net5.0\MetotOverloading.runtimeconfig.dev.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\MetotOverloading\bin\Debug\net5.0\MetotOverloading.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\MetotOverloading\bin\Debug\net5.0\MetotOverloading.pdb
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\MetotOverloading\obj\Debug\net5.0\MetotOverloading.csproj.AssemblyReference.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\MetotOverloading\obj\Debug\net5.0\MetotOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\MetotOverloading\obj\Debug\net5.0\MetotOverloading.AssemblyInfoInputs.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\MetotOverloading\obj\Debug\net5.0\MetotOverloading.AssemblyInfo.cs
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\MetotOverloading\obj\Debug\net5.0\MetotOverloading.csproj.CoreCompileInputs.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\MetotOverloading\obj\Debug\net5.0\MetotOverloading.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\MetotOverloading\obj\Debug\net5.0\refint\MetotOverloading.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\MetotOverloading\obj\Debug\net5.0\MetotOverloading.pdb
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\MetotOverloading\obj\Debug\net5.0\MetotOverloading.genruntimeconfig.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\MetotOverloading\obj\Debug\net5.0\ref\MetotOverloading.dll

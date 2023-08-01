@@ -1,0 +1,16 @@
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\RecursiveAndExtensionMethods\obj\Debug\net5.0\RecursiveAndExtensionMethods.csproj.AssemblyReference.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\RecursiveAndExtensionMethods\obj\Debug\net5.0\RecursiveAndExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\RecursiveAndExtensionMethods\obj\Debug\net5.0\RecursiveAndExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\RecursiveAndExtensionMethods\obj\Debug\net5.0\RecursiveAndExtensionMethods.AssemblyInfo.cs
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\RecursiveAndExtensionMethods\obj\Debug\net5.0\RecursiveAndExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\RecursiveAndExtensionMethods\bin\Debug\net5.0\RecursiveAndExtensionMethods.exe
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\RecursiveAndExtensionMethods\bin\Debug\net5.0\RecursiveAndExtensionMethods.deps.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\RecursiveAndExtensionMethods\bin\Debug\net5.0\RecursiveAndExtensionMethods.runtimeconfig.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\RecursiveAndExtensionMethods\bin\Debug\net5.0\RecursiveAndExtensionMethods.runtimeconfig.dev.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\RecursiveAndExtensionMethods\bin\Debug\net5.0\RecursiveAndExtensionMethods.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\RecursiveAndExtensionMethods\bin\Debug\net5.0\RecursiveAndExtensionMethods.pdb
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\RecursiveAndExtensionMethods\obj\Debug\net5.0\RecursiveAndExtensionMethods.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\RecursiveAndExtensionMethods\obj\Debug\net5.0\refint\RecursiveAndExtensionMethods.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\RecursiveAndExtensionMethods\obj\Debug\net5.0\RecursiveAndExtensionMethods.pdb
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\RecursiveAndExtensionMethods\obj\Debug\net5.0\RecursiveAndExtensionMethods.genruntimeconfig.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\RecursiveAndExtensionMethods\obj\Debug\net5.0\ref\RecursiveAndExtensionMethods.dll

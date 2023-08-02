@@ -1,0 +1,16 @@
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\StringMetotlari\bin\Debug\net5.0\StringMetotlari.exe
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\StringMetotlari\bin\Debug\net5.0\StringMetotlari.deps.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\StringMetotlari\bin\Debug\net5.0\StringMetotlari.runtimeconfig.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\StringMetotlari\bin\Debug\net5.0\StringMetotlari.runtimeconfig.dev.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\StringMetotlari\bin\Debug\net5.0\StringMetotlari.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\StringMetotlari\bin\Debug\net5.0\StringMetotlari.pdb
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\StringMetotlari\obj\Debug\net5.0\StringMetotlari.csproj.AssemblyReference.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\StringMetotlari\obj\Debug\net5.0\StringMetotlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\StringMetotlari\obj\Debug\net5.0\StringMetotlari.AssemblyInfoInputs.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\StringMetotlari\obj\Debug\net5.0\StringMetotlari.AssemblyInfo.cs
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\StringMetotlari\obj\Debug\net5.0\StringMetotlari.csproj.CoreCompileInputs.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\StringMetotlari\obj\Debug\net5.0\StringMetotlari.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\StringMetotlari\obj\Debug\net5.0\refint\StringMetotlari.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\StringMetotlari\obj\Debug\net5.0\StringMetotlari.pdb
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\StringMetotlari\obj\Debug\net5.0\StringMetotlari.genruntimeconfig.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\StringMetotlari\obj\Debug\net5.0\ref\StringMetotlari.dll

@@ -1,0 +1,16 @@
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\DateDimeAndMathClasses\bin\Debug\net5.0\DateDimeAndMathClasses.exe
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\DateDimeAndMathClasses\bin\Debug\net5.0\DateDimeAndMathClasses.deps.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\DateDimeAndMathClasses\bin\Debug\net5.0\DateDimeAndMathClasses.runtimeconfig.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\DateDimeAndMathClasses\bin\Debug\net5.0\DateDimeAndMathClasses.runtimeconfig.dev.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\DateDimeAndMathClasses\bin\Debug\net5.0\DateDimeAndMathClasses.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\DateDimeAndMathClasses\bin\Debug\net5.0\DateDimeAndMathClasses.pdb
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\DateDimeAndMathClasses\obj\Debug\net5.0\DateDimeAndMathClasses.csproj.AssemblyReference.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\DateDimeAndMathClasses\obj\Debug\net5.0\DateDimeAndMathClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\DateDimeAndMathClasses\obj\Debug\net5.0\DateDimeAndMathClasses.AssemblyInfoInputs.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\DateDimeAndMathClasses\obj\Debug\net5.0\DateDimeAndMathClasses.AssemblyInfo.cs
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\DateDimeAndMathClasses\obj\Debug\net5.0\DateDimeAndMathClasses.csproj.CoreCompileInputs.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\DateDimeAndMathClasses\obj\Debug\net5.0\DateDimeAndMathClasses.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\DateDimeAndMathClasses\obj\Debug\net5.0\refint\DateDimeAndMathClasses.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\DateDimeAndMathClasses\obj\Debug\net5.0\DateDimeAndMathClasses.pdb
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\DateDimeAndMathClasses\obj\Debug\net5.0\DateDimeAndMathClasses.genruntimeconfig.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\DateDimeAndMathClasses\obj\Debug\net5.0\ref\DateDimeAndMathClasses.dll

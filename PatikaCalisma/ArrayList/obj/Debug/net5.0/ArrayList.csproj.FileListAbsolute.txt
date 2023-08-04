@@ -1,0 +1,16 @@
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\ArrayList\bin\Debug\net5.0\ArrayList.exe
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\ArrayList\bin\Debug\net5.0\ArrayList.deps.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\ArrayList\bin\Debug\net5.0\ArrayList.runtimeconfig.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\ArrayList\bin\Debug\net5.0\ArrayList.runtimeconfig.dev.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\ArrayList\bin\Debug\net5.0\ArrayList.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\ArrayList\bin\Debug\net5.0\ArrayList.pdb
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\ArrayList\obj\Debug\net5.0\ArrayList.csproj.AssemblyReference.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\ArrayList\obj\Debug\net5.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\ArrayList\obj\Debug\net5.0\ArrayList.AssemblyInfoInputs.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\ArrayList\obj\Debug\net5.0\ArrayList.AssemblyInfo.cs
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\ArrayList\obj\Debug\net5.0\ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\ArrayList\obj\Debug\net5.0\ArrayList.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\ArrayList\obj\Debug\net5.0\refint\ArrayList.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\ArrayList\obj\Debug\net5.0\ArrayList.pdb
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\ArrayList\obj\Debug\net5.0\ArrayList.genruntimeconfig.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\ArrayList\obj\Debug\net5.0\ref\ArrayList.dll

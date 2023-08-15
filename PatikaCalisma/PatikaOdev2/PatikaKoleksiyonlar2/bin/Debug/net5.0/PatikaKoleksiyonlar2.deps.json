@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PatikaKoleksiyonlar2/1.0.0": {
+        "runtime": {
+          "PatikaKoleksiyonlar2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PatikaKoleksiyonlar2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

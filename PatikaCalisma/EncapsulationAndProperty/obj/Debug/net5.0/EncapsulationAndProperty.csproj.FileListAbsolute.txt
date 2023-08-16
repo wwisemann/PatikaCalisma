@@ -1,0 +1,16 @@
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\EncapsulationAndProperty\bin\Debug\net5.0\EncapsulationAndProperty.exe
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\EncapsulationAndProperty\bin\Debug\net5.0\EncapsulationAndProperty.deps.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\EncapsulationAndProperty\bin\Debug\net5.0\EncapsulationAndProperty.runtimeconfig.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\EncapsulationAndProperty\bin\Debug\net5.0\EncapsulationAndProperty.runtimeconfig.dev.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\EncapsulationAndProperty\bin\Debug\net5.0\EncapsulationAndProperty.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\EncapsulationAndProperty\bin\Debug\net5.0\EncapsulationAndProperty.pdb
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\EncapsulationAndProperty\obj\Debug\net5.0\EncapsulationAndProperty.csproj.AssemblyReference.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\EncapsulationAndProperty\obj\Debug\net5.0\EncapsulationAndProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\EncapsulationAndProperty\obj\Debug\net5.0\EncapsulationAndProperty.AssemblyInfoInputs.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\EncapsulationAndProperty\obj\Debug\net5.0\EncapsulationAndProperty.AssemblyInfo.cs
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\EncapsulationAndProperty\obj\Debug\net5.0\EncapsulationAndProperty.csproj.CoreCompileInputs.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\EncapsulationAndProperty\obj\Debug\net5.0\EncapsulationAndProperty.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\EncapsulationAndProperty\obj\Debug\net5.0\refint\EncapsulationAndProperty.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\EncapsulationAndProperty\obj\Debug\net5.0\EncapsulationAndProperty.pdb
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\EncapsulationAndProperty\obj\Debug\net5.0\EncapsulationAndProperty.genruntimeconfig.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\EncapsulationAndProperty\obj\Debug\net5.0\ref\EncapsulationAndProperty.dll

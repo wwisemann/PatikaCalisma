@@ -1,0 +1,16 @@
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\StaticClass\bin\Debug\net5.0\StaticClass.exe
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\StaticClass\bin\Debug\net5.0\StaticClass.deps.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\StaticClass\bin\Debug\net5.0\StaticClass.runtimeconfig.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\StaticClass\bin\Debug\net5.0\StaticClass.runtimeconfig.dev.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\StaticClass\bin\Debug\net5.0\StaticClass.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\StaticClass\bin\Debug\net5.0\StaticClass.pdb
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\StaticClass\obj\Debug\net5.0\StaticClass.csproj.AssemblyReference.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\StaticClass\obj\Debug\net5.0\StaticClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\StaticClass\obj\Debug\net5.0\StaticClass.AssemblyInfoInputs.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\StaticClass\obj\Debug\net5.0\StaticClass.AssemblyInfo.cs
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\StaticClass\obj\Debug\net5.0\StaticClass.csproj.CoreCompileInputs.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\StaticClass\obj\Debug\net5.0\StaticClass.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\StaticClass\obj\Debug\net5.0\refint\StaticClass.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\StaticClass\obj\Debug\net5.0\StaticClass.pdb
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\StaticClass\obj\Debug\net5.0\StaticClass.genruntimeconfig.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\StaticClass\obj\Debug\net5.0\ref\StaticClass.dll

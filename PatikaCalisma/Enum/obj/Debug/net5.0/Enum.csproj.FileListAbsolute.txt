@@ -1,0 +1,16 @@
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Enum\bin\Debug\net5.0\Enum.exe
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Enum\bin\Debug\net5.0\Enum.deps.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Enum\bin\Debug\net5.0\Enum.runtimeconfig.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Enum\bin\Debug\net5.0\Enum.runtimeconfig.dev.json
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Enum\bin\Debug\net5.0\Enum.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Enum\bin\Debug\net5.0\Enum.pdb
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Enum\obj\Debug\net5.0\Enum.csproj.AssemblyReference.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Enum\obj\Debug\net5.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Enum\obj\Debug\net5.0\Enum.AssemblyInfoInputs.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Enum\obj\Debug\net5.0\Enum.AssemblyInfo.cs
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Enum\obj\Debug\net5.0\Enum.csproj.CoreCompileInputs.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Enum\obj\Debug\net5.0\Enum.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Enum\obj\Debug\net5.0\refint\Enum.dll
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Enum\obj\Debug\net5.0\Enum.pdb
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Enum\obj\Debug\net5.0\Enum.genruntimeconfig.cache
+C:\Users\wisem\Desktop\Patika\CSharp\PatikaCalisma\Enum\obj\Debug\net5.0\ref\Enum.dll
